@@ -13,6 +13,6 @@ set /a i=0
   git push origin "master"
   rem exit
 
-  if %i% leq 1 goto LoopStart
+  if %i% leq 10 goto LoopStart
 
 
