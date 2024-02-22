@@ -30,7 +30,7 @@ const MMSLS = [
  */
 
 let MMSLS = [
-	"https://www.maimemo.com/share/page?uid=32329480&pid=a0d775d72e19ac4bd20c67001b1126b6&tid=a105bdd0a451d56de6caffa45e236125",
+	"https://www.maimemo.com/share/page?uid=32329480&pid=d8530faab7c3c9aa61b6b6deae445dd1&tid=602da22523296d6353153ead27c3e65b",
 ];
   /**
    * 生成随机数字
